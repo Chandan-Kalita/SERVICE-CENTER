@@ -1,0 +1,39 @@
+.download{
+    margin-bottom: 10px;
+    margin-right: 0;
+    display: inline-block;
+}
+.padding-0{
+    padding: 0!important;
+}
+.msg{
+    background-color: red;
+    display: inline;
+    color: #fff;
+}
+
+.navbar{
+    background: #000;
+}
+.sidebar-light .sidebar {
+    background: #000000;
+}
+.menu-title{
+    color: #fff;
+}
+.sidebar .nav .nav-item .nav-link i.menu-icon:before {
+    color: #fff;
+}
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-profile-name {
+    color: #fff;
+    text-transform: capitalize;
+}
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-link:after {
+    color: #fff;
+}
+.mdi-menu:before {
+    color: #fff;
+}
+.sidebar-light .sidebar .nav .nav-item .nav-link .menu-title {
+    color: #fff;
+}
